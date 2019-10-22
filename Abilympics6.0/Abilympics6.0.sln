@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abilympics6.0", "Abilympics6.0\Abilympics6.0.csproj", "{92A6292D-FA93-473B-ACC7-757D5B1BAB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A6292D-FA93-473B-ACC7-757D5B1BAB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A6292D-FA93-473B-ACC7-757D5B1BAB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A6292D-FA93-473B-ACC7-757D5B1BAB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A6292D-FA93-473B-ACC7-757D5B1BAB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F7751A-C912-460F-82E4-F14B107DEACA}
+	EndGlobalSection
+EndGlobal
